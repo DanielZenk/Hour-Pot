@@ -5,7 +5,7 @@ Authors and Collaborators:
     Damon Hunka
  
 
-## Todo Lst:
+## Todo List:
 - [ ] - Program Planning
   - [ ] - Recruitment
     - [ ] - Mechanical -- ??
